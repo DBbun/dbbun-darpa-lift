@@ -64,3 +64,5 @@ Kartoun, U. (2025). DBbun Synthetic Missions for the DARPA Lift Challenge. DBbun
 This project is provided exclusively for internal R&D usage to support participation in the DARPA Lift Challenge.
 
 See LICENSE.md for full restrictions and permissions.
+
+This simulator is an independent research project and is not affiliated with, endorsed by, or sponsored by DARPA.
