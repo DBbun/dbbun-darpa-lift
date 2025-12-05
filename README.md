@@ -6,9 +6,9 @@ This repository contains high-fidelity synthetic flight missions, aircraft desig
 
 The synthetic mission universe includes:
 
-- **1,000+ unique heavy-lift VTOL aircraft designs**
-- Each flown through **10 independent missions**
-- Resulting in **10,000+ simulated missions** and millions of telemetry samples
+- **Unlimited number of unique heavy-lift VTOL aircraft designs**
+- Each flown through **Unlimited number of independent missions**
+- Resulting in **Simulated missions** and telemetry samples
 
 All scenarios follow DARPA Lift operational constraints including payload, mass, and mission time rules.
 
@@ -41,16 +41,7 @@ Joinable by `design_id` and `mission_id`.
 
 ---
 
-## Source Code
-
-Clone and run:
-
-```bash
-git clone https://github.com/dbbun/<REPO_NAME>.git
-cd <REPO_NAME>
-python src/generator/mission_generator.py
-
-## Contact & Entity Credentials
+## Contact & Entity Credentials 
 DBbun LLC
 Email: contact@dbbun.com
 Website: https://dbbun.com/
@@ -61,8 +52,7 @@ SAM Profile: https://search.certifications.sba.gov/profile/QY39Y38E6WG8/16VU3
 ## Citation
 Kartoun, U. (2025). DBbun Synthetic Missions for the DARPA Lift Challenge. DBbun LLC.
 
-##License
-
+## License
 This project is provided exclusively for internal R&D usage to support participation in the DARPA Lift Challenge.
 
 See LICENSE.md for full restrictions and permissions.
