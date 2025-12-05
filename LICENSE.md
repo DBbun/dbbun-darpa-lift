@@ -98,3 +98,5 @@ SAM.gov SBA Profile: https://search.certifications.sba.gov/profile/QY39Y38E6WG8/
 For inquiries regarding broader licensing or commercial applications, please contact DBbun LLC.
 
 This license shall be governed by the laws of the Commonwealth of Massachusetts, without regard to conflict of law principles.
+
+This simulator is an independent research project and is not affiliated with, endorsed by, or sponsored by DARPA.
