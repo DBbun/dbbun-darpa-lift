@@ -20,18 +20,6 @@ Natural traits influence thrust, load structure, stability, and energy usage.
 
 ---
 
-## Code Purpose
-
-darpa_lift_challenge_generator_v1.0.py      # Main universe generator (unlimited # designs, unlimited # missions each)
-
-design_viz v1.0.py           # Histograms, scatter plots, correlation heatmaps
-
-missions_viz v1.0.py          # Mission success/failure analytics (optional)
-
-missions_timeseries_viz v1.0.py        # Telemetry visualization per mission & per phase
-
----
-
 ## Dataset Files
 
 | File                       | Description                          | Count |
