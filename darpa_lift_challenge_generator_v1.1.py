@@ -47,7 +47,7 @@ import pandas as pd
 # ============================================================
 
 CONFIG: Dict[str, Any] = {
-    "VERSION": "v1.2.1",
+    "VERSION": "v1.1",
 
     "RNG_SEED": 42,
     "N_DESIGNS": 10,
@@ -1872,3 +1872,4 @@ if __name__ == "__main__":
         plots_dir = os.path.join(out_dir, str(CONFIG.get("PLOTS_DIR", "plots")))
         generate_plots(df_designs, df_missions, df_ts, plots_dir)
         print(f"[{CONFIG['VERSION']}] Plots saved under -> {plots_dir}")
+
