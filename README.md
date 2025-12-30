@@ -20,6 +20,12 @@ Natural traits influence thrust, load structure, stability, and energy usage.
 
 ---
 
+## Project Overview Video
+
+[![Project overview video](https://img.youtube.com/vi/MscNJaA_XyQ/0.jpg)](https://www.youtube.com/watch?v=MscNJaA_XyQ)
+
+---
+
 ## Dataset Files
 
 | File                       | Description                          | Count |
