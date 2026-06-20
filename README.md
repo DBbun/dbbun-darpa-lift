@@ -30,8 +30,8 @@ Natural traits influence thrust, load structure, stability, and energy usage.
 
 | File                       | Description                          | Count |
 |---------------------------|--------------------------------------|-------|
-| `designs.csv`             | Aircraft architecture parameters     | ~1,000 |
-| `missions.csv`            | Mission-level performance summaries  | ~10,000 |
+| `designs.csv`             | Aircraft architecture parameters     | ~10,000 |
+| `missions.csv`            | Mission-level performance summaries  | ~100,000 |
 | `missions_timeseries.csv` | Second-by-second telemetry logs      | 300–900 steps each |
 
 Joinable by `design_id` and `mission_id`.
