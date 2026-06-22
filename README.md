@@ -107,9 +107,7 @@ The v1.2 dataset family includes multiple scales so teams can start small and th
 | Small sample | 100 | 1,000 | Early exploratory analysis and pipeline testing |
 | Standard sample | 1,000 | 10,000 | Design-space exploration and model development |
 | Expanded sample | 10,000 | 100,000 | Larger-scale benchmarking and robustness analysis |
-| Compact large run | 100,000 | 1,000,000 | High-volume screening, ranking, failure analysis, and synthetic benchmark development |
-
-The large-run compact report is designed to preserve high-level engineering signals while keeping the report manageable. Detailed rankings and per-design summaries may be provided in reports or companion exports when included.
+| Large run | 100,000 | 1,000,000 | High-volume screening, ranking, failure analysis, and synthetic benchmark development |
 
 ---
 
