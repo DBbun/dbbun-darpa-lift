@@ -1,6 +1,6 @@
 # DBbun Synthetic Missions for the DARPA Lift Challenge
 
-See DBbun listed as a contributor on the [DARPA Lift Challenge Contributor Portal](https://www.darpaconnect.us/darpaconnect/darpa-lift-challenge-portal).
+See DBbun listed as a contributor on the [DARPA Lift Challenge Contributor Portal](https://www.youtube.com/watch?v=XqWgYSDVZa8).
 
 **Live DBbun Lift Dashboard:** https://dbbun-lift-dashboard.streamlit.app/
 
